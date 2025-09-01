@@ -8,7 +8,6 @@ A minimalist, responsive art gallery layout built with HTML, CSS, and JavaScript
 - Hover effects for interactive previews  
 - Modal viewer for enlarged image display  
 - Simple, intuitive navigation  
-- Lightweight and beginner-friendly codebase
 
 ## 🚀 Live Demo
 👉 [Check it live here](https://aishi1528.github.io/Art-Gallery-Viewer/)
