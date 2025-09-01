@@ -10,8 +10,7 @@ A minimalist, responsive art gallery layout built with HTML, CSS, and JavaScript
 - Simple, intuitive navigation  
 - Lightweight and beginner-friendly codebase
 
-## 📸 Demo
-
-[Live Preview](#) (https://aishi1528.github.io/Art-Gallery-Viewer/)
+## 🚀 Live Demo
+👉 [Check it live here](https://aishi1528.github.io/Art-Gallery-Viewer/)
 
 
