@@ -2,6 +2,8 @@
 
 A minimalist, responsive art gallery layout built with HTML, CSS, and JavaScript. Designed to elegantly showcase visual works with smooth transitions and a clean user experience.
 
+---
+
 ## ✨ Features
 
 - Responsive grid layout for artwork thumbnails  
@@ -9,7 +11,11 @@ A minimalist, responsive art gallery layout built with HTML, CSS, and JavaScript
 - Modal viewer for enlarged image display  
 - Simple, intuitive navigation  
 
+---
+
 ## 🚀 Live Demo
 👉 [Check it live here](https://aishi1528.github.io/Art-Gallery-Viewer/)
+
+---
 
 
